@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6in"
+   height="4in"
+   viewBox="0 0 152.4 101.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="sheet.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="230.47336"
+     inkscape:cy="208.80509"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     width="6in"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-195.4)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.51062918px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08776572"
+       x="55.581676"
+       y="199.96716"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="55.581676"
+         y="199.96716"
+         style="stroke-width:0.08776572">Godot Cheat Sheet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.4568453"
+       y="200.61607"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="2.4568453"
+         y="200.61607"
+         style="font-size:4.23333311px;stroke-width:0.26458332">animation</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:14.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion825"
+         style="font-size:14.66666667px;"><rect
+           id="rect827"
+           width="133.57143"
+           height="141.42857"
+           x="12.142858"
+           y="31.857143"
+           style="font-size:14.66666667px;" /></flowRegion><flowPara
+         id="flowPara829"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot831"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.75595238,192.94315)"><flowRegion
+         id="flowRegion833"
+         style="line-height:0.2"><rect
+           id="rect835"
+           width="130"
+           height="113.57144"
+           x="11.428572"
+           y="35.42857"
+           style="line-height:0.2" /></flowRegion><flowPara
+         style="font-size:14.66666698px;line-height:0.2"
+         id="flowPara839">test</flowPara><flowPara
+         style="font-size:14.66666698px;line-height:0.2"
+         id="flowPara843">test</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.94494047,232.36607 H 36.66369 v -35.15178"
+       id="path845"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
